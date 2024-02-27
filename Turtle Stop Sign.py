@@ -1,3 +1,6 @@
+# Marwan Elgoghel
+# CS-175L
+# Turtle stop sign
 import turtle
 import math
 
